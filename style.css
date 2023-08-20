@@ -1,0 +1,44 @@
+#outer {
+    height: 550px;
+    width: 800px;
+    background-color:#FFEECC;
+    box-shadow: 2px 2px px red;
+
+}
+
+#outest {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 200px;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+input {
+    background-color: #FFEECC;
+    color: black;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid #61677A;
+    font-size: 30px;
+    padding-top: 70px;
+}
+ 
+
+button {
+    font-size: 30px;
+}
+
+.font{
+    padding-top: 50px;
+    font-size: 25px;
+    color: rgb(69, 178, 124);
+}
